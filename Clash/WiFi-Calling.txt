@@ -1,0 +1,3 @@
+#T-mobile and Ultra Mobile wifi calling
++.3gppnetwork.org
+IP-CIDR,208.54.0.0/16,no-resolve
